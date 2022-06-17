@@ -11,7 +11,7 @@ of the options below are as follows:
 *  **Understand** basic logic
     * idented item
 *  *Use available* options
-* Apply problem solving techniques
+* ``Apply`` problem solving techniques
 * Have fun! :)
 
 Options
